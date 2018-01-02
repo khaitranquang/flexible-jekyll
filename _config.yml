@@ -11,9 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Tran Quang Khai # add your name
 author-img: kazz.jpg # add your photo
-about-author: Hi! Welecome to my personal blog. I am a sutdent at Hanoi University of Science and Technology. Junior Javascript back-end developer. Always hungry to keep learning. # add description
+about-author: Hi! Welcome to my personal blog. I am a sutdent at Hanoi University of Science and Technology. Junior Javascript back-end developer. Always hungry to keep learning. # add description
 twitter: # add your Twitter handle
-facebook: https://www.facebook.com/tran.quangkhai97 # add your Facebook handle
+facebook: tran.quangkhai97 # add your Facebook handle
 github: khaitranquang # add your Github handle
 linkedin: # add your Linkedin handle
 email: khai.tranquang.8797@gmail.com # add your Email address
