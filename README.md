@@ -1,4 +1,11 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# khaitranquang.github.io
+
+This is my personal blog.
+Using *GithubPages* and *Jekyll* and *Flexible-Jekyll Theme*
+
+Here is information of theme which I forked: 
+
+## Flexible-Jekyll Theme
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
