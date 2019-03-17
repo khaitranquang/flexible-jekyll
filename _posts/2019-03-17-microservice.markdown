@@ -3,10 +3,9 @@ layout: post
 title: Microservice - Phần 1: Giới thiệu chung
 date: 2019-03-17 23:32:20 +0300
 description: Phần đầu tiên trong chuỗi bài tìm hiểu về microservice
-img: micro-service.png
+img: microservice.png
 tags: [Learning]
 ---
-
 Đây là phần đầu tiên trong loạt bài tìm hiểu về microservice của mình. Cũng như các bài viết khác được gắn tag `Learning` thì bài viết này được xây dựng trong quá trình học tập, như là một công cụ ghi chép những kiến thức mình học và tìm hiểu được. Nếu có gì sai sót mong người đọc nhẹ tay :v
 
 Loạt bài sử dụng nguồn tham khảo chính là cuốn sách `Microservice From Design to Deployment - Chris Richardson with Floyd Smith` cùng một số nguồn tài liệu khác.
@@ -17,7 +16,7 @@ Và giờ cùng tìm hiểu xem microservice là gì nào! Let's go !!!
 
 Đây là kiểu kiến trúc một khối truyền thống. Hình sau miêu tả một ứng dụng cơ bản theo kiểu kiến trúc này:
 
-![Monolithic]({{site.baseurl}}/assets/img/3-tier.png)
+![Monolithic]({{site.baseurl}}/assets/img/3tier.png)
 
 (*Nguồn ảnh: https://www.jinfonet.com/resources/bi-defined/3-tier-architecture-complete-overview*)
 
@@ -41,7 +40,7 @@ Do đó, kiến trúc microservice được ra đời như là một sự khắc
 
 Để dễ hình dung, anh em có thể xem hình dưới biểu diễn kiến trúc cơ bản tại Cystack Platform (https://app.cystack.net)
 
-![Cystack Microservice]({{site.baseurl}}/assets/img/cystack-microservice.jpg)
+![Cystack Microservice]({{site.baseurl}}/assets/img/cystackmicroservice.jpg)
 
 Cystack là nền tảng bảo mật bảo vệ website với 4 app chính là:
 
