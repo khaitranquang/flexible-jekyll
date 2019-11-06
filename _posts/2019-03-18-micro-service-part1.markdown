@@ -2,7 +2,7 @@
 layout: post
 title: Micro service | Phần 1: Giới thiệu chung
 date: 2018-03-18 23:32:20 +0300
-description: Phần đầu tiên trong chuỗi bài tìm hiểu về microservice
+description: Micro service part 1
 img: microservice.png
 tags: [Architecture, Learning]
 ---
