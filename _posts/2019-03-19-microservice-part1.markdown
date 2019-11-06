@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Micro service | Phần 1: Giới thiệu chung
-date: 2018-03-18 23:32:20 +0300
-description: Phần đầu tiên trong chuỗi bài tìm hiểu về microservice
+title: Microservice | Phần 1: Giới thiệu chung
+date: 2019-03-19 23:32:20 +0300
+description: Homework week 1
 img: cystack.png
-tags: [CyStack]
+tags: [CyStack, Homework]
 ---
 Đây là phần đầu tiên trong loạt bài tìm hiểu về microservice của mình. Cũng như các bài viết khác được gắn tag `Learning` thì bài viết này được xây dựng trong quá trình học tập, như là một công cụ ghi chép những kiến thức mình học và tìm hiểu được. Nếu có gì sai sót mong người đọc nhẹ tay :v
 
