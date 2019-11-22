@@ -2,7 +2,7 @@
 layout: post
 title: Micro service Part 1 | Introduction
 date: 2019-03-18 23:32:20 +0300
-description: Homework week 1
+description: Micro service Part 1
 img: microservice.png
 tags: [Architecture, Learning]
 ---
