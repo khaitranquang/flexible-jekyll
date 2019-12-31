@@ -1,0 +1,42 @@
+<!DOCTYPE html public "display of affection from creativejs">
+  <head>
+    <meta charset="uft-8" />
+    <meta name="theme-color" content="#536878" />
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>Happy new year</title>
+    <link href="css/fireworks.css" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+    <aside id="library">
+      <img src="images/nightsky.png" id="nightsky" />
+      <img src="images/big-glow.png" id="big-glow" />
+      <img src="images/small-glow.png" id="small-glow" />
+    </aside>
+    <main id="welcome-back" class="isPaused">
+      <h1 id="intro">Nhấn liên tục vào màn hình</h1>
+      <!-- <h2 id="new-year" class="new-year">Happy new year 2020</h2>-->
+      <!-- Source gốc của http://lab.aerotwist.com/canvas/fireworks/ -->
+    </main>
+  </body>
+  <script src="js/requestanimframe.js"></script>
+  <script src="js/fireworks.js"></script>
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      console.log("Will service worker register?");
+      navigator.serviceWorker.register('service-worker.js').then(function(reg){
+        console.log("Yes it did.");
+      }).catch(function(err) {
+        console.log("No it didn't. This happened: ", err)
+      });
+    }
+  </script>
+  <script>
+     $(document).ready(function(){
+     $("canvas").click(function(){
+     $("#new-year").removeClass('new-year').addClass("new-year-1");
+     });
+     });
+  </script>
+</html>
